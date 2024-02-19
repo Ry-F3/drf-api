@@ -63,7 +63,7 @@ SECRET_KEY = 'django-insecure-96p*$s8l+=e%*fv_aj4p!ao4qu@w&eml_pgf)ssd1oy=8ka#&j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEV' in os.environ
 
-ALLOWED_HOSTS = ['git.heroku.com/django-rest-demo.git']
+ALLOWED_HOSTS = ['https://django-rest-demo-1cfde67fddd7.herokuapp.com']
 
 
 # Application definition
